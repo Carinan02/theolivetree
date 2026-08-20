@@ -26,7 +26,7 @@ export const FEATURED_DISHES: MenuItem[] = [
     description: "Our kebab platter serves 5-7 people with a mouthwatering selection of skewered meats, fresh vegeratbles, and flavorful sides",
     price: "3400",
     category: 'Main',
-    image: "https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fi-ate-mixed-kebab-platter-v0-orlo03zzsgp91.jpg%3Fwidth%3D1080%26crop%3Dsmart%26auto%3Dwebp%26s%3Db702a1287f9461b78a409038f0d5c52f61045863"
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUJNlBuZ_BzvOIo-zlsox38UIw_d8p2mCOysGScrA8NTmI12d_wi4f5ull&s=10"
   }
 ];
 
