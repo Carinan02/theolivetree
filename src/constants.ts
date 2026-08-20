@@ -12,7 +12,7 @@ export const FEATURED_DISHES: MenuItem[] = [
     description: "Beef souvlaki and turkish kofte baked together with mediterranean rice in our signature laffa dough",
     price: "1099",
     category: 'Main',
-    image: "https://scontent-mnl1-2.xx.fbcdn.net/v/t39.30808-6/658842957_122276083334191822_4920723651854445865_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=13d280&_nc_eui2=AeELZpzo96FTJxEp3ACzFXY91AxYpQzJncbUDFilDMmdxt8FirgIWcA7tax5bW5G0LOoK9jO-vhrP7wxBG4FcFNY&_nc_ohc=Ngwjs3F4qWsQ7kNvwHA3kOt&_nc_oc=AdrbPBWD9Z_QT-CZf4oxP_Q8XEiezb5l4oPVI2pkx4ZtX5Lp0wS93nA-hLMAYHrM17s&_nc_zt=23&_nc_ht=scontent-mnl1-2.xx&_nc_gid=4h8KzjednEswZfgnLfWuag&_nc_ss=7a3a8&oh=00_Af2uJbI4GxsJKHmCT0n620avQumSET4bkgs60EsFSToyjg&oe=69D22AEB"
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGKqji9_TVPtJkzUvmwLQ0ByLoSRLMM7gQRtYc2eUBG-6NMJzPab2Uncn5NnXD5KXc4R5RDOFoabLVVV7Cha676xlvraSNO1Qn_wP6-g&s=10"
   },
   {
     name: "Turkish Kofte",
