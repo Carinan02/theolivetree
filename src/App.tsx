@@ -2,7 +2,7 @@
  * @license
  * SPDX-License-Identifier: Apache-2.0
  */
-
+import { Analytics } from "@vercel/analytics/react"
 import { useState, useEffect, useRef } from 'react';
 import { motion, AnimatePresence, useScroll, useTransform } from 'motion/react';
 import { 
@@ -117,7 +117,9 @@ const Navbar = () => {
           </motion.div>
         )}
       </AnimatePresence>
+       <Analytics />
     </>
+    
   );
 };
 
